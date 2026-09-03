@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Mahmudun Nabin>  
+# Hi 👋, I'm Mahmudun Nabin  
 ### 🔭 I build things with JavaScript, and React
 
 ---
