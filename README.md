@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Mahmudun Nabin Banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Mahmudun Nabin  
 ### 🔭 I build things with JavaScript, and React
 
