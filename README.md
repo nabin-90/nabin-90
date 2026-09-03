@@ -33,7 +33,9 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![](https://github-readme-stats.shion.dev/api?username=nabin-90&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nabin-90&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabin-90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 ---
 
