@@ -31,15 +31,10 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 📊 GitHub Stats  
 
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin-90-github-nabin-90&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin-90-github-nabin-90&layout=compact&theme=default) |
 
-[](https://github-readme-stats.shion.dev/api?username=nabin-90&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+---
 
-<br/>
-
-[](https://streak-stats.demolab.com/?user=nabin-90&theme=dark&hide_border=false)
-
-<br/>
-
-[](https://github-readme-stats.shion.dev/api/top-langs/?username=nabin-90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=nabin-90-github-nabin-90&style=flat-square)
